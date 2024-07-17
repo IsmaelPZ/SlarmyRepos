@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 64e20e8c10a07344caa627250061c7d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletSpawnPoint: {instanceID: 0}
+  - Spit: {instanceID: 0}
+  - bossCollider: {fileID: 7907504391573294038, guid: d6b94d19e8555f64fa8838eef5bbf1ae, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
